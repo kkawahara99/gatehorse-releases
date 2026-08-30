@@ -5,3 +5,5 @@
 
 - インストーラは Releases タブから `setup.exe` をダウンロード。
 - 自動更新マニフェスト: `https://github.com/kkawahara99/gatehorse-releases/releases/latest/download/latest.json`
+
+利用には別途発行されるライセンスキーが必要です。インストールしただけでは機能を使えません。
